@@ -1,0 +1,18 @@
+TimeSeries ID,workload_identity_federation/count.iam.googleapis.com/WorkloadIdentityPoolProvider.ALIGN_RATE.REDUCE_SUM.metric.type="iam.googleapis.com/workload_identity_federation/count" resource.type="iam.googleapis.com/WorkloadIdentityPoolProvider" metric.label."result"="success".60s.pool_id:github.project_id:tribal-spanner-435322-j5
+pool_id,github
+project_id,tribal-spanner-435322-j5
+Sun Nov 03 2024 04:31:00 GMT-0500 (Eastern Standard Time),0.025555981488580366
+Sun Nov 03 2024 04:35:00 GMT-0500 (Eastern Standard Time),0.010277671294521572
+Sun Nov 03 2024 04:36:00 GMT-0500 (Eastern Standard Time),0.03722200925570982
+Sun Nov 03 2024 04:37:00 GMT-0500 (Eastern Standard Time),0.01916698611643527
+Sun Nov 03 2024 04:55:00 GMT-0500 (Eastern Standard Time),0.010277671294521572
+Sun Nov 03 2024 04:56:00 GMT-0500 (Eastern Standard Time),0.03722200925570982
+Sun Nov 03 2024 04:57:00 GMT-0500 (Eastern Standard Time),0.01916698611643527
+Sun Nov 03 2024 05:06:00 GMT-0500 (Eastern Standard Time),0.0411106851780863
+Sun Nov 03 2024 05:07:00 GMT-0500 (Eastern Standard Time),0.025555981488580366
+Sun Nov 03 2024 05:18:00 GMT-0500 (Eastern Standard Time),0.010277671294521572
+Sun Nov 03 2024 05:19:00 GMT-0500 (Eastern Standard Time),0.03722200925570982
+Sun Nov 03 2024 05:20:00 GMT-0500 (Eastern Standard Time),0.01916698611643527
+Sun Nov 03 2024 05:23:00 GMT-0500 (Eastern Standard Time),0.010277671294521572
+Sun Nov 03 2024 05:24:00 GMT-0500 (Eastern Standard Time),0.03722200925570982
+Sun Nov 03 2024 05:25:00 GMT-0500 (Eastern Standard Time),0.01916698611643527
