@@ -19,4 +19,4 @@ jobs:
       - uses: 'google-github-actions/auth@v2'
         with:
           project_id: 'tribal-spanner-435322-j5'
-          workload_identity_provider: '...' # "projects/126879556098/locations/global/workloadIdentityPools/github/providers/my-repo"
+          workload_identity_provider: 'projects/126879556098/locations/global/workloadIdentityPools/github/providers/project-repo' # "projects/126879556098/locations/global/workloadIdentityPools/github/providers/my-repo"
